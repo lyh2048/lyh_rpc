@@ -1,0 +1,2 @@
+kryo=github.lyh2048.serialize.kryo.KryoSerializer
+protostuff=github.lyh2048.serialize.protostuff.ProtostuffSerializer
